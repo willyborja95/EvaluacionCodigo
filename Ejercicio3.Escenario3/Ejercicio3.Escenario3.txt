@@ -1,0 +1,12 @@
+Maquila No.1
+Lider:
+Codigo: 1 Nombres: Erick Fernandez Salario: 1250.0
+Programadores:
+Codigo: 2 Nombres: Ericka Valverde Salario: 500.0 Lenguajes:  Java
+
+Lider:
+Codigo: 3 Nombres: Fabian Jimenez Salario: 1200.0
+Programadores:
+Codigo: 4 Nombres: Emilia Barahona Salario: 1250.0 Lenguajes:  Java Python
+Codigo: 5 Nombres: Yoder Gaona Salario: 1250.0 Lenguajes:  .net visual basic Java Python
+
